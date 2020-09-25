@@ -1,5 +1,5 @@
 {
-  "name": "html-pdf",
+  "name": "new-html-pdf",
   "version": "2.2.0",
   "description": "HTML to PDF converter that uses phantomjs",
   "engines": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/marcbachmann/node-html-pdf.git"
+    "url": "git@github.com:angelkurten/node-html-pdf.git"
   },
   "keywords": [
     "html",
@@ -37,9 +37,9 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/marcbachmann/node-html-pdf/issues"
+    "url": "https://github.com/angelkurten/node-html-pdf/issues"
   },
-  "homepage": "https://github.com/marcbachmann/node-html-pdf",
+  "homepage": "https://github.com/angelkurten/node-html-pdf",
   "dependencies": {
     "dompurify": "^2.0.8",
     "jsdom": "^16.1.0"
